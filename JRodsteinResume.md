@@ -1,5 +1,5 @@
 # JOSHUA RODSTEIN
-Email: ** joshuarodstein@gmail.com** | GitHub: **joshrodstein** | LinkedIn: **joshrodstein** | phone: **2098145290**
+Email: **joshuarodstein@gmail.com** | GitHub: **joshrodstein** | LinkedIn: **joshrodstein** | phone: **2098145290**
 
 ## Technologies and Skills
 
