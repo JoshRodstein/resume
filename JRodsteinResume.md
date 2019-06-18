@@ -57,27 +57,27 @@ Spring 2015 - Spring 2016
 ---
 ## Projects
 
-## Network Orchestration System
+### Network Orchestration System
 **Abstracts and manages deployment of VPCs, Subnets, Routing tables, and network connectivity in AWS**
 - Developed custom Terraform provider for VPC deployment in GoLang and generated provider client using go-swagger
 - Deployed containerized Flask api via ECS behind network load balancer exposed via API Gateway
 - Secured using API Gateway custom token authentication
 
-## Quillx Hackathon Registration
+### Quillx Hackathon Registration
 **techx/quill fork - Hackathon Registration web application for EllieMae Hackathon**
 - Refactored application using established AngularJS and Node.js design patterns
 - Implemented API endpoints using Node.js and Mongoose
 - Defined and provisioned AWS infrastructure as code with Terraform
 - Implemented CI/CD using GitHub, Docker, Dockerhub, and Terraform Enterprise
 
-## Automated Documentation Pipeline
+### Automated Documentation Pipeline
 **API Documentation Pipeline for Encompass Partner Integrations**
 - Design, implementation, testing, and delivery of CI/CD pipeline for API documentation
 - Automated document promotion from source to Internal API Explorer using Jenkins CI/CD
 - Provisioned infrastructure as code for API portal using Bash, Terraform, and AWS cloud provider
 - Used OpenApi-3.0/swagger-2.0 and SLATE to convert API specs to Markdown for rendering
 
-## Android Trivia Game
+### Android Trivia Game
 **Multiplayer online trivia game for Android devices**
 - Threading techniques in Android
 - Local SQLite and remote Firebase Databases
@@ -85,7 +85,7 @@ Spring 2015 - Spring 2016
 - Managed project through development
 - Verified Delivery
 
-## DKSwing-P
+### DKSwing-P
 **Data Structure and methods for 1200 telemetric time series data points**
 - Search operation implemented using functional predicates to improve reuse and readability
 - Time series data structure to read and consume data points using the Java Stream/Ex library
