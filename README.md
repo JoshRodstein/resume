@@ -34,16 +34,15 @@ Pleasanton, CA | *June 2018 - August 2018*
 api documents as static rendered OpenAPI pages
 - Identified biz value and best practices with EPC developers and cloud team
 
-### Community College of Allegheny County
-**CS Tutor: Intro & Intermediate Java** <br/>
+## Community College of Allegheny County
+**CS Tutor: Intro & Intermediate Java**
 Pittsburgh, PA | *May 2017 - July 2017*
-- Assisted intro to intermediate java students with basic foundational understanding of:
-  - Language Basics
-  - Data Representation and storage
-  - Program control structures
-  - Classes and their methods
 
----
+- Basic foundational understanding
+- Data Representation and storage
+- Program control structures
+- Classes and their methods
+
 ## Education
 
 ### University of Pittsburgh
