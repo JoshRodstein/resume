@@ -26,14 +26,6 @@ Pleasanton, CA | *January 2019 - February 2020*
 Partner Integrations
 Pleasanton, CA | *June 2018 - August 2018*
 
-
-- Terraform to manage infrastructure in AWS
-- GitHub Enterprise to collaborate and release tested and versioned Infrastructure as code
-- Author and Implement test plans across different languages and frameworks using a range of testing methodologies
-- Develop pipelining and CI/CD solutions using Jenkins and Terraform Enterprise
-- Work to develop compliant solutions to meet the needs of internal end users
-
-
 ## Community College of Allegheny County
 **CS Tutor: Intro & Intermediate Java**
 Pittsburgh, PA | *May 2017 - July 2017*
@@ -55,6 +47,14 @@ Pittsburgh, PA | *May 2017 - July 2017*
 
 # Projects
 
+### GRUT: Go-Git Remote Migration Utility
+**Golang command line application for batch changes to local git remotes**
+
+*  Designed for internal customers after migration to new Github appliance and domain
+*  Written in Golang, using go-git and cobra cmd libraries
+*  Written and cross compiled for Windows, Macos and Linux 64 bit systems
+*  Unit & Acceptance tests developed using go testing library
+
 ### Logstash Log Schema Lambdas
 **Module to Deploy fleet of schema lambdas for Logstash ingest**
 * Developed module for Cloud Automation team to deploy log schema lambdas
@@ -66,14 +66,6 @@ Pittsburgh, PA | *May 2017 - July 2017*
 * Developed custom Terraform provider for VPC deployment in GoLang and generated provider client using go-swagger
 * Deployed containerized Flask api via ECS behind network load balancer exposed via API Gateway
 * Secured using API Gateway custom token authentication
-
-### Quillx Hackathon Registration
-**techx/quill fork - Hackathon Registration web application for EllieMae Hackathon**
-
-  * Refactored application using established AngularJS and Node.js design patterns
-  * Implemented API endpoints using Node.js and Mongoose
-  * Defined and provisioned AWS infrastructure as code with Terraform
-  * Implemented CI/CD using GitHub, Docker, Dockerhub, and Terraform Enterprise
 
 ### Automated Documentation Pipeline
 **API Documentation Pipeline for Encompass Partner Integrations**
